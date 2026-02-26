@@ -1,0 +1,3 @@
+# Runtime dependencies
+playwright==1.58.0
+requests==2.32.5

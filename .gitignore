@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Data
+bookmarks.csv
+bookmarks.jsonl
+bookmarks-bak.csv
+bookmarks*.csv
+bookmarks*.jsonl
+
+# Auth
+twitter_auth.json
+twitter_auth_bak.json
+twitter_auth*.json
+
+# OS
+.DS_Store
